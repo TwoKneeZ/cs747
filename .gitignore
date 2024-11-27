@@ -2,5 +2,7 @@ __pycache__/
 .resources/
 images/train
 images/test
+inverted/-1
 inverted/0
 inverted/1
+unusable
