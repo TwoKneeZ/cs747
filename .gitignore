@@ -1,0 +1,11 @@
+job_*/
+sample/
+test*/
+train*/
+*.zip
+sampleSubmission.csv
+model/
+output/
+log.md
+run.slurm
+.ipynb_checkpoints
